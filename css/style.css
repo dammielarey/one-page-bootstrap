@@ -4,6 +4,9 @@ ul li {
     padding: 0;
 }
 
+i::before{
+    color: #2487ce;
+}
 .top-hero-section{
     background: rgba(255, 255, 255, 0.8);
 }
@@ -24,4 +27,8 @@ ul li {
     color: #2487ce;
     margin-top: 6px;
     border: 2px solid #2487ce;
+}
+
+.number-bg{
+    background-color: #f8fbfe;
 }
