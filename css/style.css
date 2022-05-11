@@ -1,0 +1,27 @@
+
+ul li {
+    list-style: none;
+    padding: 0;
+}
+
+.top-hero-section{
+    background: rgba(255, 255, 255, 0.8);
+}
+
+#about-section{
+    padding: 80px 0;
+    overflow: hidden;
+}
+
+.btn-more{
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 1px;
+    padding: 12px 32px;
+    border-radius: 5px;
+    line-height: 1;
+    color: #2487ce;
+    margin-top: 6px;
+    border: 2px solid #2487ce;
+}
